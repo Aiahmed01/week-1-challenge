@@ -6,3 +6,4 @@ I cleaned the css and removed the redundancies
 I added all the alt attributes 
 I made sure that the heading attributes are in sequential order
 I added a title that tells the navigator the type of the website.
+I added some missing alt's and did a final touches on the sizes in css.
